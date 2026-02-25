@@ -1,6 +1,6 @@
-# Focus on your own life Zen
+# Focus on your own life
 
-**Focus on your own life Zen** è un'app sperimentale per la produttività costruita in Flutter. Trasforma una limitazione hardware (non toccare il telefono) in una meccanica di *gamification* per mantenere la concentrazione durante lo studio o il lavoro.
+**Focus on your own life** è un'app sperimentale per la produttività costruita in Flutter. Trasforma una limitazione hardware (non toccare il telefono) in una meccanica di *gamification* per mantenere la concentrazione durante lo studio o il lavoro.
 
 Non è il solito timer Pomodoro: **Zen Focus sa se stai barando.** Se prendi in mano il telefono prima che il tempo scada, l'app se ne accorge, cancella la tua sessione e ti "punisce" con un allarme visivo e tattile.
 
